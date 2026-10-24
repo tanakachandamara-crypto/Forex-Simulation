@@ -1,0 +1,16 @@
+# Compiled binaries and object files
+*.exe
+*.o
+*.obj
+bin/
+build/
+
+# Real API credentials & private configs
+config.h
+*.env
+api_keys.json
+
+# VS Code / OS system cache
+.vscode/
+.DS_Store
+Thumbs.db
